@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Cole! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Cole! <br/>Language Enthusiast</a>, <a href="https://www.linkedin.com/in/mccannoncole/">Cybersecurity Professional</a>, <a href="https://www.instagram.com/coleyboii_music/">Music Producer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
