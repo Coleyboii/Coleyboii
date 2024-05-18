@@ -10,7 +10,7 @@
  <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Setting up Active Directory</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Coleyboii/Cloud-SOC)
+  - [Setting Up Active Directory](https://github.com/Coleyboii/Active-Directory-Lab/tree/main)
 
 
 <!--
