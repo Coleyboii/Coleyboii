@@ -7,6 +7,11 @@
 - <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Coleyboii/Cloud-SOC)
 
+ <h2>👨‍💻 IT Projects:</h2>
+
+- <b>Setting up Active Directory</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Coleyboii/Cloud-SOC)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
