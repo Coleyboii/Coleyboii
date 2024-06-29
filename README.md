@@ -12,8 +12,7 @@
 - <b>Setting up Active Directory</b>
   - [Setting Up Active Directory](https://github.com/Coleyboii/Active-Directory-Lab/tree/main)
   - [Configuring Permissions](https://github.com/colemccannon/Active-Directory-Permissions)
- 
-  - 
+
 
 
 <!--
